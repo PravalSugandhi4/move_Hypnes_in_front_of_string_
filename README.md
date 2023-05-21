@@ -3,7 +3,7 @@
 
 /*
 
-Question:-Move hyphens in front from given string contains hyphens  \n
+Question:-Move hyphens in front from given string contains hyphens  
 example:- 
            input:-  jklm---pqr
           output:-  ---jklmpqr
